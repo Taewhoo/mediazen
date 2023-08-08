@@ -1,0 +1,11 @@
+sil sil_B sil_E sil_I sil_S <unk> <unk>_B <unk>_E <unk>_I <unk>_S
+a_B a_E a_I a_S b_B b_E b_I b_S ch_B ch_E ch_I ch_S d_B d_E d_I d_S e_B e_E e_I e_S f_B f_E f_I f_S g_B g_E g_I g_S gn_B gn_E gn_I gn_S i_B i_E i_I i_S j_B j_E j_I j_S k_B k_E k_I k_S l_B l_E l_I l_S ll_B ll_E ll_I ll_S m_B m_E m_I m_S n_B n_E n_I n_S o_B o_E o_I o_S p_B p_E p_I p_S r_B r_E r_I r_S rr_B rr_E rr_I rr_S s_B s_E s_I s_S t_B t_E t_I t_S u_B u_E u_I u_S x_B x_E x_I x_S y_B y_E y_I y_S z_B z_E z_I z_S
+a_B b_B ch_B d_B e_B f_B g_B gn_B i_B j_B k_B l_B ll_B m_B n_B o_B p_B r_B rr_B s_B t_B u_B x_B y_B z_B 
+a_E b_E ch_E d_E e_E f_E g_E gn_E i_E j_E k_E l_E ll_E m_E n_E o_E p_E r_E rr_E s_E t_E u_E x_E y_E z_E 
+a_I b_I ch_I d_I e_I f_I g_I gn_I i_I j_I k_I l_I ll_I m_I n_I o_I p_I r_I rr_I s_I t_I u_I x_I y_I z_I 
+a_S b_S ch_S d_S e_S f_S g_S gn_S i_S j_S k_S l_S ll_S m_S n_S o_S p_S r_S rr_S s_S t_S u_S x_S y_S z_S 
+sil <unk> 
+sil_B <unk>_B 
+sil_E <unk>_E 
+sil_I <unk>_I 
+sil_S <unk>_S 

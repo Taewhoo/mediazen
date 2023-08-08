@@ -1,0 +1,8 @@
+*~
+__pycache__/
+*.pyc
+*.out
+.vscoe
+.DS_Store
+./data/
+exp/
